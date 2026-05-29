@@ -1,4 +1,4 @@
-# Hi, I'm Tathagat, here to learn 👋
+# Hi, I'm Tathagat 👋
 
 ### 🛠️ Technical Arsenal
 *   **Languages:** Rust (Learning), Solidity, TypeScript, C#, JavaScript, C++
